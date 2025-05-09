@@ -1,4 +1,4 @@
-# TimeO - Time-Based Orienteering Solver
+# CPSC327 : Data Structures & Algs. Project 4 - Time-Based Path Orienteering Solver
 
 TimeO is a Java application that solves the time-based orienteering problem by finding an optimal path to maximize the score when visiting control points within their designated time windows while respecting time limits and penalties.
 
