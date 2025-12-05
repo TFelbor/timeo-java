@@ -83,7 +83,3 @@ The program outputs:
 - Raw score (sum of control point values)
 - Total penalty incurred
 - List of controls visited in sequence
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
