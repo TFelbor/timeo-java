@@ -84,14 +84,6 @@ The program outputs:
 - Total penalty incurred
 - List of controls visited in sequence
 
-## License
-
-MIT
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgments
-
-This project implements the Time-O variant of the orienteering problem, which is a well-studied optimization problem in operations research.
